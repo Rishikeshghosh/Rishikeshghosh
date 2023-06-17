@@ -1,11 +1,12 @@
+![Logo](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
 <h1 align="center">Hi 👋, I'm Rishikesh Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshghosh&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshghosh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishikeshghosh" target="blank"><img src="https://img.shields.io/twitter/follow/rishikeshghosh?logo=twitter&style=for-the-badge" alt="rishikeshghosh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishikeshghos10" target="blank"><img src="https://img.shields.io/twitter/follow/rishikeshghos10?logo=twitter&style=for-the-badge" alt="rishikeshghos10" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -21,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishikeshghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishikeshghosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishikesh ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh ghosh" height="30" width="40" /></a>
+<a href="https://twitter.com/rishikeshghos10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishikeshghos10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishikesh-ghosh-9a226a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh-ghosh-9a226a230/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikeshghosh&show_icons=true&locale=en" alt="rishikeshghosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshghosh&" alt="rishikeshghosh" /></p>
-
